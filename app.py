@@ -62,4 +62,5 @@ def hello():
     jso = json.dumps(out)
     print(out)
     return jso
-app.run(port=7890)
+if __name__ == '__main__':
+   app.run()
