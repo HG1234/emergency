@@ -1,0 +1,6 @@
+requests
+pyrebase
+flask
+scipy
+array
+json
